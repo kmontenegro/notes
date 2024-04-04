@@ -29,6 +29,7 @@
 * [A Light in Gaza](https://www.haymarketbooks.org/books/1861-light-in-gaza): There is one chapter which is AI optimistic/positivist and focuses on who is left out of building these models/systems.
 * ['Lavender': The AI Machine Directing Isreael's Bombing Spree in Gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza/): Frightening new (April 3 2024) article on how AI is furthering genocide in Gaza.
 * [Radical Technologies: The Design of Everyday Life](https://www.versobooks.com/products/119-radical-technologies): This is a good tech-skeptical/critical framework from someone who understands technology.
+* [NTEN Tech Equity Guide](https://word.nten.org/wp-content/uploads/2021/07/NTEN-Equity-Guide-for-Nonprofit-Technology_September_2020_v2.pdf)
 
 ## Tools
 If you want to play with AI locally, there are some OK options:
