@@ -2,6 +2,7 @@
 * NGO's with web sites
 * NGO's with social media
 * NGO's with crypto-currency
+* NGO's with machine translation/transcription
 
 ## AI 
 * Highly automated guessing
@@ -14,6 +15,13 @@
 * Hoovering intellectual property w/o regard to licensing
 * Expropriation of language; what is an "open source" LLM/data set?
 * Hype, so much hype
+
+## Potentially Helpful Use Case Scenarios
+* Document summaries (though it will miss notes/footnotes)
+* Transcription (in english)
+* Indigenous language preservation
+* Cybersecurity & forensic accounting (finding deviations from patterns)
+* Flagging disinformation (with huge limitations) 
 
 ## Risks
 * All bright and shiny tech...
